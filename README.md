@@ -1,1 +1,1 @@
-# HTML_CSS_Javascript_Dev
+# HTML_CSS_Javascript_Dev is a repository for the Coursera course HTML, CSS, Javascript for Web Developers.
